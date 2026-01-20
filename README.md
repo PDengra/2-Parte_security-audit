@@ -34,5 +34,13 @@ Clona el repositorio:
 git clone https://github.com/PDengra/2-Parte_security-audit.git
 cd 2-Parte_security-audit
 chmod +x audit.sh
+````
+
+## Uso
+
+Ejecuta la auditoría con el perfil auto:
+```bash
+
+sudo ./audit.sh --profile auto
 
 
